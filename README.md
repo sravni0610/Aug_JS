@@ -1,4 +1,3 @@
-# Aug_JS
- Job support project
+# Aug_JS 
 
-Updating the branch details
+Updating the readme file 
